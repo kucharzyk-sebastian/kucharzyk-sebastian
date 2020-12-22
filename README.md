@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hey, you. You're finally awake 👋
 
-<!--
-**kucharzyk-sebastian/kucharzyk-sebastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Software Developer" width="250" src="images/just_me_vibing.gif">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **About Me**
+- I find **it** hard to remember about semicolons, so I code in Python :snake:.
+- A cup of tea in the morning **works** for me.
+- I'm always open for collaboration **on** open source projects.
+- I prefer to write **my** unit-tests according to the classical school.
+- I'd love to talk about **machine** learning.
+
+  
+![](https://komarev.com/ghpvc/?username=kucharzyk-sebastian&color=blue)
